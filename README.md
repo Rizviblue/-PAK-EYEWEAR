@@ -6,23 +6,24 @@
 
 ## 🚀 Features
 
-- 🛍️ Interactive and stylish product cards with “Add to Cart” and “Buy Now” options  
-- 🖼️ Image carousel with promotional banners (Flat 50%, 40%, 30% Off)  
-- 👓 Product categories for MENS, WOMEN, KIDS, and ACCESSORIES  
-- 📱 Fully responsive design compatible with all screen sizes  
-- 🔍 Font Awesome icons for search, cart, and profile  
-- 📩 Contact Us page with working form layout  
-- 🧾 Checkout page for cart summary  
+- 🎯 Eye-catching homepage with banner carousel
+- 🛍️ Product cards with images, pricing, and CTA buttons (Buy Now/Add to Cart)
+- 🔥 End-of-season sale highlights with discount sections
+- 📱 Fully responsive layout using Bootstrap 5
+- 📂 Category navigation: Men's, Women's, Kids', Accessories
+- 🧿 Brand filtering: Ray-Ban, Prada, John Jacobs, etc.
+- 🔎 Icons for Contact, Cart, and FAQ using Font Awesome
+- 💬 Marquee for latest offers
+- 🖼️ Promotional banners and best-selling sections
 
 ---
 
-## 📋 Technologies Used
+## 🛠️ Tech Stack
 
-- HTML5  
-- CSS3  
-- Bootstrap 5.3  
-- Font Awesome 6.7.2  
-- JavaScript (Basic Interactions)
+- **HTML5**
+- **CSS3**
+- **Bootstrap 5**
+- **Font Awesome 6**
 
 ---
 
@@ -83,6 +84,23 @@ pak-eyewear/
 │   ├── Men/
 │   ├── Women/
 │   └── Kids/
+
+---
+## 🎓 Developed For
+
+This project was created as part of the **Aptech eProject** requirement under the course module for Front-End Technologies.
+
+---
+
+## 🙌 Author
+
+**Syed Ali Abbas Rizvi**  
+📧 Email: [syedaliabbas2003@yahoo.com](mailto:syedaliabbas2003@yahoo.com)  
+🌐 LinkedIn: [linkedin.com/in/rizviblue](https://linkedin.com/in/rizviblue)
+
+---
+
+> ⭐ *Don't forget to give this project a star if you find it helpful!*
 
 ---
 
