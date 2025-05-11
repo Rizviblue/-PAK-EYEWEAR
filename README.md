@@ -4,6 +4,11 @@
 
 ---
 
+🔗 Live Preview
+🌐 View Project Live: https://pak-eyewear.netlify.app/
+
+---
+
 ## 🚀 Features
 
 - 🎯 Eye-catching homepage with banner carousel
