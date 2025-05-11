@@ -48,19 +48,41 @@ Compatible with all modern browsers like Chrome, Edge, Firefox.
 
 ## 📁 Project Structure
 pak-eyewear/
-├── .vscode/
-│   └── homepage.css
+├── Index.html
+├── mens.html
+├── Womens.html
+├── kids.html
+├── accessories.html
+├── flat1.html
+├── flat2.html
+├── flat3.html
+├── Rayban.html
+├── prada.html
+├── johnjacobs.html
+├── productdetails.html
+├── checkout.html
+├── faq.html
+├── aboutus.html
+├── contactus.html
+└── shippingandreturns.html
+
+├── CSS/
+│   ├── aboutus.css/
+│   ├── brand.css/
+│   ├── checkout.css/
+│   ├── contactus.css/
+│   ├──faq.css/
+│   ├── flat.css/
+│   ├── homepage.css/
+│   ├── pdetail.css/
+│   ├── productpage.css/
+│   └── shipping&return.css/
+
 ├── assets/
 │   ├── banners/
 │   ├── Men/
 │   ├── Women/
-│   ├── Kids/
-│   └── Accessories/
-├── home.html
-├── flat1.html
-├── productdetails.html
-├── checkout.html
-└── contactus.html
+│   └── Kids/
 
 ---
 
